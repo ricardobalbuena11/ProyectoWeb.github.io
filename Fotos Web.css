@@ -1,0 +1,100 @@
+.nav-pills {
+    margin-top: 1%;
+    background-color: rgb(41, 32, 35);
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    width: 300px;
+    border: 5px solid rgb(87, 9, 177);
+    border-radius: 20px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    padding: 20px;
+    margin-left: 5%;
+}
+
+p {
+    font-size: 18px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+
+img {
+    flex-wrap: wrap;
+    margin: 1% 0% 1% 0%;
+    height: 300px;
+    transition: 500ms;
+}
+
+.square:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 5px black;
+}
+
+#campa {
+    height: 250px;
+}
+
+#campa:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 5px orangered;    
+}
+
+.campa:hover {
+        transform: scale(1.1);
+        box-shadow: 5px 5px 5px orangered;    
+}
+
+img:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 5px  #1b1297;
+}
+
+#campeon {
+    height: 300px;
+}
+
+#campeon:hover, #champ:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 5px black;
+}
+
+.sub:hover, .foto8:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 5px orangered;
+}
+
+.foto4:hover, .foto5:hover .foto6:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 5px  #1b1297;
+}
+
+.las3, .fotoss, .centro {
+    display: flex;
+    justify-content: space-around;
+}
+
+.penul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ultimas {
+    display: flex;
+    justify-content: space-around;
+}
+
+#Foto15:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 5px orangered;  
+}
+
+#Foto14:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 5px orangered; 
+}

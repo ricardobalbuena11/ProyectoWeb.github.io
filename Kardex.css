@@ -1,0 +1,56 @@
+.nav-pills {
+    margin-top: 1%;
+    background-color: rgb(41, 32, 35);
+    margin-right: auto;
+}
+
+h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    width: 300px;
+    border: 5px solid rgb(87, 9, 177);
+    border-radius: 20px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    padding: 20px;
+    margin-left: 5%;
+}
+
+p {
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 90px;
+}
+table {
+    margin-left: 9%;
+}
+
+table, th, td {
+    color: white;
+    background-color: #0d5227;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px #0d1a52;
+    padding: 10px;
+    text-align: justify;
+}
+
+th {
+    background-color: orange;
+}
+
+.line1 {
+    background-color: grey;
+}
+
+.hover2, .hover3, .hover4, .hover5, .hover6, .hover7, .hover8, .hover9,
+.hover10, .hover11, .hover12, .hover13, .hover14, .hover15, .hover16, .hover17, .hover18,
+.hover19, .hover20, .hover21, .hover22, .hover23, .hover24 {
+    transition: 500ms;
+}
+
+.hover2:hover, .hover3:hover, .hover4:hover, .hover5:hover, .hover6:hover, .hover7:hover, .hover8:hover, .hover9:hover,
+.hover10:hover, .hover11:hover, .hover12:hover, .hover13:hover, .hover14:hover, .hover15:hover, .hover16:hover, .hover17:hover, .hover18:hover,
+.hover19:hover, .hover20:hover, .hover21:hover, .hover22:hover, .hover23:hover, .hover24:hover {
+    transform: scale(1.2);
+}

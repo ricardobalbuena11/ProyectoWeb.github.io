@@ -1,0 +1,49 @@
+.nav-pills {
+    margin-top: 1%;
+    background-color: rgb(41, 32, 35);
+    margin-right: auto;
+}
+
+h2 {
+    text-align: justify;
+    margin-left: 17%;
+    width: 300px;
+    border: 5px solid rgb(87, 9, 177);
+    border-radius: 20px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    padding: 20px;
+}
+
+p {
+    text-align: justify;
+    margin-left: 17%;
+    margin-right: 25%;
+}
+
+hr {
+    width: 35%;
+    margin-left: 17%;
+    border: 5px solid;
+    background-color: blue;
+}
+
+.fotobio {
+    height: 200px;
+    float: left;
+}
+
+.fotobautizo {
+    height: 400px;
+    float: right;
+}
+
+img {
+    margin-left: 10px;
+    transition: 500ms;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
